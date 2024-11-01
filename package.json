@@ -1,0 +1,12 @@
+{
+  "name": "Fake PhonePe APK",
+  "version": "1.0.0",
+  "description": "Fake PhonePe APK Latest Version 2024.",
+  "main": "index.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
